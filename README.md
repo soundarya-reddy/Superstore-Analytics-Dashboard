@@ -68,6 +68,9 @@ This page provides deeper analysis of customers and product profitability.
 
 This page helps identify high-value customers, profitable product categories, and underperforming sub-categories.
 
+<img width="913" height="745" alt="image" src="https://github.com/user-attachments/assets/755e953f-f6d0-4bdd-a642-4057d4abdee7" />
+
+
 ## Key Insights
 
 The dashboard enables the following insights:
