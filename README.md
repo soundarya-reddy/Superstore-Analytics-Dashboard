@@ -50,7 +50,9 @@ This page focuses on high-level business performance and sales trends.
 * Sales by Category Bar Chart to compare product category performance
 * Sales by State Map to analyze geographic sales distribution
 
-This page helps users quickly understand overall sales performance and regional trends.
+This page helps users quickly understand overall sales performance and regional trends.<br>
+
+<img width="911" height="746" alt="image" src="https://github.com/user-attachments/assets/41c9b600-b477-48ed-9d60-b31c01024682" />
 
 
 ### Page 2 – Customer & Product Insights
